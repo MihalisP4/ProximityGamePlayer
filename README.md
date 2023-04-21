@@ -1,5 +1,5 @@
 # ProximityGamePlayer
-Proximity game player created using python
+Proximity game player created using python for Advanced Programming Class
 Strategy Game (https://www.mathsisfun.com/games/proximity.html). 
 There is one board of hexagons and two players, red and blue. In each round the player receives a random number, 
 e.g. x, from 1 to 20 and places it in a free cell dashboard. If this cell is a neighbor with cells:
